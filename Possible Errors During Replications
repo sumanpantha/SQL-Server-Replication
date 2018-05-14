@@ -13,6 +13,3 @@ Changed database context to 'master'. (Microsoft SQL Server, Error: 15517)
 ALTER AUTHORIZATION ON DATABASE::[databasename] TO [loginname];
 
 ALTER AUTHORIZATION ON DATABASE::DeeMoney TO sa;
-
-
-Error 2:
